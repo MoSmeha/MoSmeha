@@ -26,7 +26,30 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
+
+## 🚀 Top Projects 
+
+### 🎓 UniAssist 
+UniAssist – A responsive university portal with role-based access for students, faculty, and admins, featuring real-time chat, AI FAQ chatbot, and push notifications. Built with MERN stack, it includes productivity tools, lost-and-found, and appointment modules using Cloudinary and RESTful Express APIs. 
+<br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<hr/>
+
+### ⚙️ TaskMaster 
+A full-stack web application built using **ASP.NET Core** and **React** that helps teams manage and track tasks efficiently with a SQL Server database.  
+<br/>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<hr/>
+
+### ⚔️ ChatApp
+A real-time messaging app built with Socket.io, enabling instant communication between users with live typing indicators, message delivery status, and responsive UI for a smooth chatting experience.
+<br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
 
 
 ## 🧠 Languages  
