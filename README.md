@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=3000&lines=Hi!+👋;+I'm+Mohamad!;" />
 </h1>
 
@@ -9,7 +9,7 @@
 
 <div>
  
- 🔭 I’m currently working in a bootcamp with SE Factory 
+ 🔭 I’m currently studying in a bootcamp with SE Factory 
  
  🌱 I’m currently revisiting **PHP, Laravel**
 
