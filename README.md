@@ -43,7 +43,7 @@ A full-stack web application built using **ASP.NET Core** and **React** that hel
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <hr/>
 
-### ⚔️ ChatApp
+### 💬 ChatApp
 A real-time messaging app built with Socket.io, enabling instant communication between users with live typing indicators, message delivery status, and responsive UI for a smooth chatting experience.
 <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -78,7 +78,7 @@ A real-time messaging app built with Socket.io, enabling instant communication b
 <br/>
 <hr/>
 
-<div align="center">
+<div>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ola-smaha/ola-smaha/output/github-contribution-grid-snake.svg" />
