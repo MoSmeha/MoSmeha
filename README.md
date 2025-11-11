@@ -13,7 +13,7 @@
  
  🌱 I’m currently revisiting **PHP, Laravel**
 
- 💬 Ask me anthing [here](https://github.com/MoSmeha/MoSmeha/issues)
+ 💬 Ask me anthying [here](https://github.com/MoSmeha/MoSmeha/issues)
 
  </div>
  
