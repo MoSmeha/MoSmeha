@@ -37,6 +37,7 @@
 ### [✈️ TravelWise (AI-Powered Travel Platform)](https://github.com/MoSmeha/TravelWise)
 **Production-ready cross-platform mobile system.** Engineered an AI planning engine combining **RAG (OpenAI + PgVector)** with K-Means clustering to mathematically optimize travel routes. Features real-time collaboration via Socket.io and automated weather updates using **n8n** workflows. Built with a scalable **Prisma** ORM layer.
 <br/>
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <hr/>
@@ -44,6 +45,7 @@
 ### [🎓 UniAssist (Autonomous AI Campus)](https://github.com/MoSmeha/UniAssist)
 **Agentic AI Platform.** Engineered an AI Core using **LangGraph** and RAG that acts as a central campus concierge. Consolidates 12+ separate utilities (Chat, Scheduling, Lost & Found) into a single scalable platform with live notifications.
 <br/>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 <hr/>
@@ -51,6 +53,7 @@
 ### [🥇 HIREX (Award-Winning ATS)](https://github.com/MoSmeha/HIREX)
 **Team Lead & Best Group Project.** Built a Resume Parser and RAG-based **Interview Copilot** to automate candidate screening. Designed a scalable backend architecture with CI/CD pipelines, reducing manual screening effort by 40%.
 <br/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <hr/>
@@ -58,6 +61,7 @@
 ### [⚙️ TaskMaster](https://github.com/MoSmeha/TaskMaster)
 A full-stack web application built using **ASP.NET Core** and **React**. Features an Asana-inspired interface with lazy loading (reducing load times by 25%) and a robust SQL Server database.
 <br/>
+
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <br/>
