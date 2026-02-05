@@ -77,9 +77,9 @@ A full-stack web application built using **ASP.NET Core** and **React**. Feature
 
 # GitHub Stats :
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MoSmeha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoSmeha&theme=tokyonight&hide_border=false" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSmeha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoSmeha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="MoSmeha Stats" />
+  <br/>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MoSmeha&theme=tokyonight&hide_border=true" alt="MoSmeha Streak" />
+  <br/>
+  <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=MoSmeha&theme=tokyonight&hide_border=true" alt="MoSmeha Activity" />
 </div>
