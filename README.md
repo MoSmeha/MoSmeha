@@ -66,7 +66,6 @@ A full-stack web application built using **ASP.NET Core** and **React**. Feature
 
 <br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -74,7 +73,6 @@ A full-stack web application built using **ASP.NET Core** and **React**. Feature
   
   <br/><br/><br/>
 </div>
-
 <hr/>
 
 # GitHub Stats :
